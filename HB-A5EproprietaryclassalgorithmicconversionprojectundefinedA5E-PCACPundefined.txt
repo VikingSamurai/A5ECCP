@@ -1,0 +1,594 @@
+```metadata
+title: A5E proprietary class algorithmic conversion project (A5E-PCACP)
+description: ''
+tags: []
+systems: []
+renderer: V3
+theme: 5ePHB
+
+```
+
+<img src='https://i.imgur.com/s0DLRtB.jpg' style='position:absolute;top:0px;left:0px;width:200%;transform:translate(-25%,3%);'/>
+
+<style>
+#p1{ text-align:center; 
+		background:#FF0000;}
+#p1:after{ display:none; }
+#doctitle{ color:#ff0000; }
+</style>
+
+<h1 id="doctitle"></h1A5E>A5E Proprietary Class Algorithmic Conversion Project </h1>
+
+<img
+		 src='http://i.imgur.com/SGYtcP2.png' style='position:absolute;top:120px;left:85px;width:80%'/>
+
+<img
+src='http://i.imgur.com/UNR8ilF.png' style='position:absolute;bottom:180px;left:0px;width:50%'/>
+
+\page
+
+<div class='toc'>
+
+## Table Of Contents
+
+### [Credits](#p2)	
+	
+### Part 1 Introduction
+## 1 - **[Foreword](#p4)**
+### Part 2: Character options
+## 2 - **[Classes](#p5)**
+#### [Accursed](#p5)
+#### [Alchemist](#p6)
+#### [Blood Hunter](#p7)
+#### [Cardcaster](#p8)
+#### [Craftsman](#p9)
+#### [Dancer](#p10)
+#### [Elementalist](#p12)
+#### [Gemini](#p13)
+#### [Gunslinger](#p14)
+#### [Monster Tamer](#p15)
+#### [Morph](#p16)
+#### [Necromancer](#p17)
+#### [Occultist](#p18)
+#### [Runekeeper](#p19)
+#### [Sealer](#p20)
+#### [Shaman](#p21)
+#### [Warmage](#p22)
+
+</div>
+&nbsp;
+\page
+# Credits
+
+## [EN Publishing]( https://enpublishingrpg.com )
+[Cardcaster, Occultist, Morph]( https://www.drivethrurpg.com/product/208749/5E-A-Touch-of-Class-Revised-7-New-Classes-for-5th-Edition ), [Monster Tamer, Gemini]( https://www.drivethrurpg.com/product/278158/5E-A-Touch-More-Class-9-More-Classes-for-5th-Edition )
+	
+## [Mage Hand Press]( https://magehandpress.com )
+[Alchemist, Craftsman, Gunslinger, Necromancer, Warmage]( https://spireofsecrets.backerkit.com/hosted_preorders )
+
+## [Matthew Mercer]( http://www.matthewmerceronline.com )
+[Blood Hunter]( https://www.dmsguild.com/product/301641/Blood-Hunter-Class-for-DD-5e-2020 )
+
+## [Mitchell Turnbull]( https://www.dmsguild.com/browse.php?author=Mitchell%20Turnbull )
+[Sealer]( https://www.dmsguild.com/product/421884/Sealer-Class--An-Ink--Paint-Mage )
+
+## [Outlandish Adventure Productions and/or Ross Leiser]( https://www.dmsguild.com/browse.php?author=Ross%20Leiser )
+[Shaman]( https://www.dmsguild.com/product/359339/OAP-Shaman-Class ), [Elementalist]( https://www.dmsguild.com/product/216381/OAP-The-Elementalist-Class ), [Accursed]( https://www.dmsguild.com/product/263360/OAP-The-Accursed-Class )
+
+## [Taron]( https://www.dmsguild.com/browse.php?author=Taron%20Pounds ) ["Indestructoboy"]( https://www.youtube.com/@Indestructoboy ) [Pounds]( https://www.drivethrurpg.com/browse/pub/22776/Indestructoboy-Designs )
+[Dancer]( https://www.dmsguild.com/product/351490/The-Dancer-Class ) and [Runekeeper]( https://www.dmsguild.com/product/385912/The-Runekeeper-Class--Runic-Invocation )
+	
+	
+
+
+\page
+# Introduction
+Herein are algorithmic instructions and notes for arriving at conversions of classes that I have brought over to A5E, but cannot share directly for fear of accidentally violating people's intellectual property.
+
+This document will necessarily be shorter than the Community Class Conversion Project document because it assumes that you already have the class material from the sources that sell them. There are links detailing where to find and purchase each of the classes in the credits section of this document.
+
+Also be aware that without the content these authors have made, conversions like this obviously would not be possible, so be sure to show them your support by picking up their stuff.
+
+\page
+# Class Conversion Algorithms
+## Accursed
+### Progression Modifications
+- Grant a Herald's knack progression
+- Maneuvers
+	- Traditions: choose 2 from Tooth and Claw, Cutting Omen, Tempered Steel and Razor's Edge
+	- Give a Herald's Maneuver progression and spell-to-exertion conversion mechanic.
+	-You do not get an exertion pool, in the same way as a Herald
+- Grant Latent Power at level 3, and Rapturous Presence at level 9, as a Sorcerer would gain, but substitute all mention of 'sorcery points' with 'exertion'
+- Grant War's Toll (the level 14 Fighter feature) at level 13
+
+### Accursed Knacks
+- Loremaster of Creatures
+- Whiff of the Beyond
+- Beast speech
+	- Prerequisite: Curse of Lycanthropy
+- Beguiling Influence
+- Ominous Tormentor
+- See the Unseen
+- Monster Mimic
+- Lingering Touch
+- Ominous Insight
+- Hostilia Naturae
+- Bestowed Understanding
+- Undaunted
+\page
+## Alchemist
+### Class Modifications
+- Culture and Engineering are now class skills for the Alchemist
+### Progression Modifications
+- Grant a Fighter's Knack progression
+- Maneuvers
+	- Traditions: Choose 2 from Mist and Shade, Rapid Current and Mirror's Glint
+	- Give a Rogue's Maneuver Progression
+	- Maneuver pool of proficiency bonus, as Savant
+- Grant Practical Knowledge, Scholarly Acquaintance and Wandering Sage (at levels 2, 5 and 9 respectively) as a Scholar would attain them
+- Gain an expertise die to class skills of your choice at 6, 13, 17
+
+### Alchemist knacks
+- Scholar's Discoveries
+\page
+## Blood Hunter
+### Progression Modifications
+- Grant Herald's Knack Progression
+- Maneuvers
+	- Traditions: Choose 2 from Biting Zephyr, Mist and Shade, Spirited Steed and Unending Wheel
+	- Give a Ranger's Maneuver Progression
+	- Pool: 2\*PB
+- Gain the Ranger features Familiar Terrain and Game Hunting at levels 1 and 10 respectively
+- Gain the Fighter features Steely Mien, Martial Lore, and Reputation at levels 2, 6 and 14 respectively
+
+### Blood Hunter Knacks
+- Burst of Strength
+- Build Shelter
+- Campaigner
+- Clearsight Sentinel
+- Ear to the Ground
+- Extreme Leap
+- Guide
+- Hostilia Naturae
+- Huntsman
+- Longwalker
+- Master Tracker
+- Mountaineer
+- Nightwatch
+- Read the Room
+- Relentless Pursuit
+- See the Unseen
+- Stable Footing
+- Survivalist
+- Weather Beaten
+
+\page
+## Cardcaster
+### Progression Modifications
+- Grant Herald's Knack progression.
+- Get Bestow Magic sort of like a wizard at level 13, except that it functions by the player giving the player of the character they bestow the magic onto the card, and then that player can play the card as they see fit, at which point it goes into the cardcaster's player's discard pile.
+
+### Archetype Modifications
+- Knight of Swords gets herald maneuver progression, a maneuver pool of 2\*PB and a proficiency in Cutting Omen and one other choice in tradition from Mist and Shade, Rapid Current and Razor's Edge.
+- Cardshark: change doubling proficiency bonus to granting an expertise die
+
+###  Cardcaster Knacks
+- Cat's Eyes
+- Beguiling Influence
+- Eidetic Memory
+- Eldritch Sight
+- Impromptu Persona
+- Kleptology
+- Mask of Many Faces
+- Observer
+- Profitable
+- Quick Scan
+- Read the Room
+- Read you like a spellbook
+
+\page
+## Craftsman
+### Class Modifications
+- Culture and Engineering are now Craftsman class skills
+
+### Progression modifications
+- Knack progression: as a Fighter
+- You get a choice between bonus feats at levels 1, 5, 11, 15 and 19 as a Scholar would: Pick between an Expertise die with one class skill or set of tools, Crafting Expert, Skillful, Tactical Support, and Intuitive.
+- Grant Wandering Sage at level 9, as a Scholar
+- Maneuvers
+	- Maneuver pool: 2\*PB
+	- Maneuver traditions: Unending Wheel and one other tradition of your choice.
+	- Maneuver progression - As a Herald
+- Note: at 15th level your expertise die in crafting can go to d10. At 18th level it can go to d12. Only crafting works this way.
+
+### Notes
+- Don't make craftsman make a check for their active crafting and downtime crafting pace as outlined in Valda's Spire of Secrets. However, if the craftsman wishes to work faster than their downtime crafting pace and it doesn't come under their active crafting, then utilise A5E crafting rules as normal
+
+### Craftsman Knacks
+- All of the Soldiering Knacks
+\page
+## Dancer
+### Class Modifications
+- Culture is now a Dancer class skill.
+
+### Progression Modifications
+- Grant Bard's Knack progression
+- {First Level 1 feature} change: Now gives an expertise die to all checks and attacks made before the end of the target's turn, as opposed to what it did before.
+- Remove the first level 2 feature, the second level 3 feature, the level 5 feature, the level 7, 14 and 18 features.
+- Move level 18 feature to level 15
+- Grant 'Combat Tactic' at level 1
+	- **Combat Tactic**: Choose 1
+		- **Capoeirista**: Any time you move 25ft or more in a straight line and then attack, the first attack the creature affected makes against you is made with disadvantage, as they are unable to keep up with the sudden change in momentum
+		- **Tamer**:	whips have a damage die of 1d8 for you
+		- **Juggler**:	same effect as rogue's Sniper (including throwing weapons, and double the first effective range increment)
+- Maneuvers
+	- Grant Proficiency in 2 Traditions from: Mirror's Glint, Mist and Shade, Rapid Current and Razor's Edge
+	- Grant Maneuver Pool of PB at level 2
+	- Grant Rogue's Maneuver Progression
+- Grant 'Dancer's Grace' at level 3
+	- **Dancer's Grace**: Choose 1
+		- **Interpretive dance**: You gain an expertise die in culture. If you do not share a language with someone, you can make a culture check to communicate in very general "terms" with them, over and above what you could communicate without this feature.
+		- **{former Second level 3 feature}**: As before, but now additionally gives an expertise die in performance
+		- **Social Expertise**: expertise die to  Insight, Persuasion, Deception, or Sleight of Hand.
+- Grant a Self-preservation feature at 7th, 14th and 18th level
+	- **Self-Preservation**
+		- **{former 5th level feature}**: In addition to previous effect, gives proficiency in CON saves
+		- **{former 7th level feature}**
+		- **{former 14th level feature}**
+		- Tumbling Retreat
+		- Uncanny Dodge
+- Grant Practiced Dancer at Level 8:
+	- **Practiced Dancer**: Choose 1
+		- **{former first 2nd level feature}**: As before, but now gives an expertise die on insight
+		- **Plaza-Swimmer**: expertise die on culture, you get to use an "I've met a guy" or "I've heard of a guy" variant of the "I know a guy" houserule (basically, it doesn't presume much of a pre-established relationship between the player's character and the NPC)
+			- Elaboration: In any situation (where it makes sense), a PC can declare “I know a guy,” and then quickly sketch that NPC & the relationship. Fewer details are usually better - that leaves room for the DM & PCs to play.
+		- **Social Expertise**: expertise die on Insight, Performance, Deception, Persuasion or Sleight of Hand
+- Change feature at level 13 such that
+	- **{level 13 feature}**: Choose one:
+		- Original behaviour of {level 13 feature}
+		- When you use your action for {second level 2 feature}, you and the target (who must be conscious) can spend a hit die to heal hit die + Constitution modifier
+		- When you use your action for {second level 2 feature}, both you and the target can make an acrobatics check as a free action to escape being grappled (as applicable)
+- Grant Subtle Moves at level 14:
+	- **Subtle Moves**: Choose one
+		- **Hidden Signs** - As with feature of same name from Rogue's Guarded Aspect
+		- **Seen it All** - As with feature of same name from Rogue's Guarded Aspect
+		- **Master of Disguise** - As with feature of same name from Rogue's Guarded Aspect
+		- **Social Expertise** - expertise die on Deception, Performance, Persuasion or Culture
+\page
+- Adjustment to {first level 15 feature}: When you have an expertise die, you can do as the feature originally says, but you explicitly do not get rerolls of any kind and the expertise die is not counted in the crit calculation.
+- Grant Overwhelming Personality at level 18:
+	- **Overwhelming Personality**: Choose one
+		- **Dress Rehearsal**: As with Rogue feature of same name
+		- **Roguish Charm**: As with Rogue feature of same name
+		- **Social Expertise**: expertise die on Deception, Insight, Sleight of Hand or Culture
+		
+### Dancer Tricks
+- Agile Athlete
+- Bewitching Companion but for Acrobatics, Athletics, Insight - Perception, Performance, Persuasion, Deception or Culture
+- Extra Skill Training but for Acrobatics, Athletics, Insight, Perception, Performance, Persuasion, Deception or Culture
+- Graceful Leap
+- Kip up
+- Loot Runner
+- Observer 
+- Practiced Dash
+- Profitable
+- Showoff, but for Acrobatics, Athletics or Performance
+- Tuck and Roll
+\page
+## Elementalist
+### Progression Modifications
+- Grant Herald's Knack progression
+- {Third level 2 feature} Change: Alter this so it functions along the same lines as the Herald's Smite
+- Maneuvers
+	- Maneuver pool: None, functions as a Herald
+	- Maneuver Traditions: Cutting Omen and your choice of Mirror's Glint, Rapid Current, Adamant Mountain, Biting Zephyr or Unending Wheel.
+	- Maneuver Progression: As with Herald.
+- Grant druid's First-hand naturalist feature at level 3, but for you it applies to your primary casting stat
+- Grant Adept's Battlefield Etiquette at level 9 and Acquired Knowledge at level 13
+- Grant Extreme Elemental Attunement at level 17:
+	- **Extreme Elemental Attunement**:you gain resistance to fire and cold damage (if you were already resistant to either one, you gain immunity to it instead), and you gain a swimming speed and climbing speed equal to your movement
+
+### Elementalist Knacks:
+- Adept Speed (But you can only take it once) 
+- Aerial Surveyor
+- Aquatic Delver
+- Cavern Skulker
+- Desert Dweller
+- Eye for Detail
+- Gale Walk
+- Hurricane Walk
+- Marathon Runner, using elemental die instead
+- Mountain Climber
+- Nimble Athlete
+- Power Tumble
+- Slow Fall
+- Tundra Explorer
+- Wall Walk
+- Water Walk
+\page
+## Gemini
+### Progression Modifications
+- Grant Fighter's Knack Progression
+- Maneuvers
+	- Maneuver pool: 2\*PB
+	- Traditions: Choose 2 from Mist and Shade, Rapid Current and Razor's Edge
+	- Grant Ranger's Maneuver progression
+- Grant Martial Lore at level 6 (but only provide a choice of Size Up or Weapon Lore)
+- Grant War's Toll at level 14
+### Archetype changes
+- Atavist 1st-level feature: Grant an expertise die rather than what it did initially
+- Equalist 1st-level feature: Grant an expertise die rather than what it did initially
+
+### Gemini Knacks:
+- Tuck and Roll
+- Quick Scan
+- Observer
+- Kip Up
+- Extra Skill Training
+- Hide in Shadows
+- Agile Athlete
+- Nightwatch
+- Stable Footing
+\page
+## Gunslinger
+### Class Modifications
+- Engineering is now a Gunslinger class skill
+
+### Progression Modifications
+- Grant Warlock's Invocations known progression as a Knack progression
+- Maneuvers:
+	- Pool: 2\*PB
+	- Traditions: Pick 2 from Biting Zephyr, Mist and Shade, Spirited Steed and Unending Wheel
+	- Grant Ranger's Maneuver progression
+- {second 1st level feature} change: Grants an expertise die rather than what it used to do.
+- Grant Familiar Terrain at level 1 and Game Hunting at level 10
+- Grant Steely Mien at level 2, Martial Lore at level 6 and Reputation at level 14.
+- Remove {6th level feature}, {11th level feature} and {13th level feature}
+- Remove {Second 7th level feature}, {15th level feature}, and {18th level feature}
+- Grant a feature from Gun Tech at levels 6, 11 and 13:
+	- **Gun Tech**: Choose one
+		- {former 6th level feature}
+		- {former 11th level feature} - At level 6, only applies to first damage roll of your turn. At level 11, is unrestricted.
+		- {former 13th level feature}
+- Grant a feature from Self-Preservation at levels 7, 15 and 18
+	- **Self-Preservation**: Choose one
+		- {former Second 7th level feature}
+		- {former 15th level feature} - 1/long rest. At level 15 becomes 1/short or long rest
+		- {former 18th level feature} - changed to: You have proficiency in {statistic listed} and an expertise die to {statistic listed} checks and saves.
+		- Blindsense
+		- Slippery Mind
+		- Uncanny Dodge
+### Note
+- For gunslinger characters, just use the firearm rules listed in Valda's Spire, as the gunslinger is balanced for those rules.
+
+### Gunslinger Knacks
+- Build Shelter
+- Burst of Strength
+- Campaigner
+- Clearsight Sentinel
+- Ear to the Ground
+- Extreme Leap
+- Guide
+- Huntsman
+- Longwalker
+- Master Tracker
+- Mountaineer
+- Nightwatch
+- Read the Room
+- Relentless Pursuit
+- See the Unseen
+- Stable Footing
+- Survivalist
+- Weather Beaten
+
+\page
+## Monster Tamer
+### Progression Modifications
+- Grant Fighter's Knack progression
+- Maneuvers:
+	- Pool: 2\*PB
+	- Traditions: Beast Unity and one more tradition from Spirited Steed, Sanguine Knot and Mirror's Glint
+	- Grant Ranger's Maneuver progression
+- Grant Steely Mien at level 2
+- Grant Game Hunting at level 6 and Wilderness Lore at level 12
+
+### Monster Tamer Knacks
+- Amphibious Combatant
+- Campaigner
+- Mountaineer
+- Nightwatch
+- Call of the Wild
+- Ear to the Ground
+- Expert Foraging
+- Forced Marcher
+- Healing Salves
+- Herbal Bitters
+- Huntsman
+- Monster Mimic
+- Master Tracker
+- Relentless Pursuit
+- See the Unseen
+- Survivalist
+\page
+## Morph
+### Progression Modifications
+- Grant Fighter's Knack progression
+- Maneuvers:
+	- Pool: 2\*PB
+	- Traditions: Choose 2 from Tooth and Claw, Mirror's Glint and Unending Wheel
+	- Grant Berserker's Maneuver progression
+- Grant Intelligent Caution at level 7
+- Grant Innocent Facade at level 9, Low Profile at level 10 and Guarded Aspect at level 14.
+
+### Archetype Modifications
+- Doppelganger change: {3rd level feature} Grants an expertise die rather than what it did before
+
+### Morph Knacks
+- Agile Sprinter
+- Marathon Runner
+- Monster Mimic
+- Nimble Athlete
+- Power Tumble
+- Sense for secrets
+- Sharpened Senses
+- Run silent run deep
+\page
+## Necromancer
+### Class Modifications
+- Culture and Engineering are now Necromancer class skills
+
+### Progression Modifications
+- Grant Wizard's Knack progression
+- Grant Scholarly Excellence, Wizard's Flair and Arcane Defenses at levels 3, 9 and 15 respectively
+- Grant spell study at 7th level but with the caveat that Fauna and Flora changes so that its effect works on undead instead of beasts and plants.
+- Grant Bestow Magics at 13th level, but change it so that it can only be used on the Necromancer's Thralls
+
+### Archetype changes
+- Death Knight gets Maneuvers from Cutting Omen and one more from Adamant Mountain, Tempered Iron and Unending Wheel. Pool is 2\*PB, Maneuver progression of a Herald
+
+### Necromancer Knacks
+- Air Lift
+- Beguiling Influence
+- Courts of the Outer Realms
+- Eidetic Memory
+- Eyes of the Rune Keeper
+- Loremaster of Creatures
+- Mask of Many Faces
+- Mire the Mind
+- Ominous Tormentor
+- Persistent Mending
+- Prestor, Prestidigitation
+- Whispers of the Grave
+\page
+## Occultist
+### Progression Modifications
+- Grant Fighter's Knack progression
+- Maneuvers:
+	- Pool: 2\*PB
+	- Traditions: 2 from Tooth and Claw, Adamant Mountain and Rapid Current
+	- Grant Berserker's Maneuver progression
+- {level 2 feature} change: grant an expertise die and not what the feature did before.
+- Grant Warrior Born at level 3
+- Grant Martial Presence at level 6, but with the caveat that you have to pick Mighty or Scary
+- Grant Shrewd Judgement at level 8
+
+### Archetype Modifications
+- {level 3 feature} change: grant an expertise die and not what the feature did before
+
+### Occultist Knacks
+Burst of Strength
+Extreme Leap
+Instant step (but you don't need adept speed for it)
+Marathon Runner
+Nimble Athlete
+Power Tumble
+Sixth Sense
+Sharpened senses
+Whiff of the Beyond
+
+\page
+## Runekeeper
+### Progression Modifications
+- Grant Fighter's Knack progression
+- Maneuvers:
+	- Pool: PB
+	- Traditions: 2 from Adamant Mountain, Tempered Iron and Unending Wheel
+	- Grant Berserker's maneuver progression
+- Grant Scholar of the Old Ways at level 3, Truthspeaker at level 7 and Truth of Conviction at level 13.
+- Grant the Arcane Objects selection of Spell Study at level 17
+
+### Runekeeper Knacks
+- Cavern Skulker
+- Divine Vision
+- Eidetic Memory
+- Loremaster of Travel
+- Loremaster of Creatures for Constructs, Dragons, Elementals, Fey, Fiends or Giants
+- Premonition
+- Prophetic Protection
+- Seek Truths
+- Theologian
+- Voice of Doom
+\page
+## Sealer
+### Class Modifications
+- Culture is now a Sealer class skill
+
+### Progression Modifications
+- Grant Wizard's Knack progression
+- {Second Level 3 feature} - grants an expertise die rather than what it did before
+- Grant Visual Art Specialty (from bard's level 1 art specialty) at level 7, and Dual Masterpiece (from bard's level 11 art mastery) at level 13
+- Grant scholarly excellence at level 9 with the caveat that you can't pick ritual efficiency
+- Grant Arcane Defenses and Spell Study at levels 15 and 17 respectively.
+
+### Archetype Modifications:
+- Order of Origami gets proficiency with Cutting Omen and one other combat tradition of your choice between Rapid Current and Mirror's Glint. Pool: 2\*PB. Progression of a Herald
+
+### Sealer Knacks
+- Detect Magic Savant
+- Illusion Detective
+- Loremaster of Travel
+- Mage Hunter (but for Int rather than CHA)
+- Persistent Mending
+- Presto Prestidigitation
+- Profitable
+- Showoff
+- Resonance
+- Retrace
+\page
+## Shaman
+### Class Modifications
+- Culture is now a Shaman class skill
+
+### Progression Modifications
+- Grant Druid's Knack progression
+- Grant Spiritual Demeanor at 3rd level
+	- Spiritual Demeanor is Natural Demeanor but you can't pick A Way With Animals, and Scholar of the Old Ways applies to Charisma rather than Wisdom
+- Grant Shamanic Lore at 7th level
+	- Shamanic Lore is Druidic Lore, but Druidic Secrets applies to Shaman spells, and you can't choose Toxin Intuition.
+- Grant Sacred Presence at 9th level
+- Grant Harmonize at 15th level (from Druid's Harmonize or Terrorize feature)
+
+### Shaman Knacks:
+- Aerial Surveyor
+- Ancestral Guidance
+- Aquatic Delver
+- Desert Dweller
+- Faithful historian but for Charisma instead of Wisdom
+- Gentle Healer
+- Graceful Fall
+- Herbal Apothecary
+- Premonition, but from a spirit instead of a divinity
+- Soothing Words
+- Tundra Explorer
+- Voice of Doom
+
+\page
+## Warmage
+
+### Progression Modifications:
+- Grant Fighter Knack progression
+- Maneuvers
+	- Pool: 2\*PB
+	- Traditions: 2 of your choice
+		- (formerly suggested cutting omen but some of those maneuvers require spell slots or spell points, which warmage doesn't necessarily get)
+	- Grant Herald's Maneuver progression
+- Grant the Savant features Analyze and Intelligent Caution at 3rd and 7th level.
+- Grant Artificer's Intellectual Calibre at 9th level
+- Grant Witch's Third Eye at 15th level
+
+### Warmage Knacks
+- Air Lift
+- Artifact Knowledge
+- Beguiling Influence
+- Gaze of Two Minds
+- Illusion detective (for if you know an illusion cantrip rather than an illusion spell)
+- Lingering Touch
+- Meeting of Minds
+- Ominous Tormentor
+- Persistent mending
+- Presto, prestidigitation
+- Read you like a spellbook
+- Retrace
+- Mage Hunter
+- Magnetic Step
+- Wode Sense
